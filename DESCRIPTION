@@ -1,0 +1,9 @@
+Package: interest
+Type: Package
+Title: Interest Rate Calculations
+Version: 0.9
+Date: 2023-03-15
+Author: Peter Gruber
+Maintainer: Peter Gruber <peter.gruber@usi.ch>
+Description: Serveral functions for calculating returns and prices.
+License: GPL-3
